@@ -1,1 +1,2 @@
 # Flu-Shots-2022-SQL-Tableau
+The primary goal of this project was to leverage SQL for uploading and querying real-world fake patient data related to flu shots in 2022. The generated dataset simulated diverse patient profiles and flu shot records. Subsequently, a structured SQL extract was designed to facilitate the development of a comprehensive Flu Shots 2022 Dashboard using Tableau. The dashboard aimed to provide detailed insights into vaccination trends, compliance rates, and demographic distributions.
